@@ -1,40 +1,70 @@
-<h1 align="center">Hi 👋, I'm Zion Joseph Sabangan Busto</h1>
-<h3 align="center">Interested in mathematical research, with a strong interest in numerical integration and applying analytical methods to solve real-world problems. Developing experience in statistical computing and research-driven problem-solving through technical projects.</h3>
+<h1 align="center">Hi, I'm Zion Joseph Sabangan Busto 👋</h1>
+<h3 align="center">BS Statistics Student at UPLB | Mathematical Research | pauca sed matura</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bullzyee&label=Profile%20views&color=0e75b6&style=flat" alt="bullzyee" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bullzyee" alt="bullzyee" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on [Closed-Form Approximation on Gaussian Density Function](www.linkedin.com/in/zion-joseph-sabangan-busto-8a255a318)
-
-- 🌱 I’m currently learning **Overleaf LaTex, Python, and R**
-
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/zion-joseph-sabangan-busto-8a255a318](www.linkedin.com/in/zion-joseph-sabangan-busto-8a255a318)
-
-- 📝 I regularly write articles on [www.linkedin.com/in/zion-joseph-sabangan-busto-8a255a318](www.linkedin.com/in/zion-joseph-sabangan-busto-8a255a318)
-
-- 💬 Ask me about **LaTex, Mathematical Research, and Statistics**
-
-- 📫 How to reach me **www.linkedin.com/in/zion-joseph-sabangan-busto-8a255a318**
-
-- 📄 Know about my experiences [www.linkedin.com/in/zion-joseph-sabangan-busto-8a255a318](www.linkedin.com/in/zion-joseph-sabangan-busto-8a255a318)
-
-- ⚡ Fun fact **My focus tends to jump from one thing to another. Last hour I want to write a paper about physics, last minute I want to perform an experiment on Agarwood, and so on.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/zion joseph sabangan busto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zion joseph sabangan busto" height="30" width="40" /></a>
-<a href="https://fb.com/zion joseph busto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zion joseph busto" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/philomath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="philomath" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://img.shields.io/badge/-Statistics-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Mathematical%20Research-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Numerical%20Integration-green?style=flat-square" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bullzyee&show_icons=true&locale=en&layout=compact" alt="bullzyee" /></p>
+### 🔭 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bullzyee&show_icons=true&locale=en" alt="bullzyee" /></p>
+I'm a Statistics undergraduate at the **University of the Philippines Los Baños (UPLB)**, passionate about mathematical research — particularly **numerical integration** and applying analytical methods to real-world problems. I'm developing my skills in statistical computing and research-driven problem-solving through independent projects and technical writing.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bullzyee&" alt="bullzyee" /></p>
+- 🎓 BS Statistics @ University of the Philippines Los Baños (2025–Present)
+- 🔬 Independent researcher, currently developing a closed-form approximation of the Gaussian density function (**"Zion's Conjecture"**)
+- 📽️ Making math content on YouTube via **PhiloMath**
+- 🧮 Active member of the **UPLB Statistical Society** and the **Think Tank Training Program** (UPLB Mathematical Sciences Society)
+- 🖨️ Printing Technician @ AiSEi Printing Services — LaTeX typesetting for client documents
+
+---
+
+### 🚀 Featured Project
+
+**PyTeX — Legal Document Automation System**
+A Python-based tool that interviews clients and auto-generates formatted LaTeX documents (e.g. affidavits, resumes) for compilation in Overleaf — built to streamline document typesetting workflows at a print shop.
+🔗 [View the code](https://github.com/Bullzyee/python-legal-document/blob/main/project_aisei.py)
+
+**On the Closed-Form Approximation of the Gaussian Density Function (Zion's Conjecture)**
+An ongoing independent project exploring novel closed-form approximations to the normal density function, aiming for a simpler alternative to Z-tables and heavy numerical integration. Currently achieves ~0.003% error on the interval [0, 3.5].
+
+---
+
+### 🛠️ Skills
+
+**Languages & Tools**
+![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+
+**Focus Areas**
+Mathematical & Statistical Research · Formula Development · Numerical Integration · Technical Writing
+
+---
+
+### 📄 Publications
+
+- *Theoretical Evaluation of a Conceptual Soundproof Classroom* — ResearchGate, 2026
+- *On the Closed-Formula to Find the Area and Arc Length of a Standard Hyperbola* — ResearchGate, 2026
+- *Exploring the Challenges of Grade 11 STEM Students in Solving Limits of a Function that Yields an Indeterminate Form* — Qualitative Research
+
+---
+
+### 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zion-joseph-sabangan-busto-8a255a318)
+[![YouTube](https://img.shields.io/badge/-PhiloMath-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@philomath0723?si=OU1_7Jvbg2rTsXLC)
+[![ORCID](https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0002-2277-1837)
+
+- 📚 Research Gate: Zion Joseph Sabangan Busto
+- 📊 Zenodo: Zion Joseph Sabangan Busto
+- 🔍 Google Scholar: Zion Joseph Sabangan Busto
+- 🏢 LinkedIn Pages: [Brewmetry](https://www.linkedin.com/company/brewmetry) · [Holocron of Mathematics](https://www.linkedin.com/company/holocron-of-mathematics)
+
+---
+
+<p align="center"><i>"Pauca sed matura" — few, but ripe.</i></p>
