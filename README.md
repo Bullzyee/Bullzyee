@@ -18,13 +18,9 @@
 
 ### 🔭 About Me
 
-I'm a Statistics undergraduate at the **University of the Philippines Los Baños (UPLB)**, passionate about mathematical research — particularly **numerical integration** and applying analytical methods to real-world problems. I'm developing my skills in statistical computing and research-driven problem-solving through independent projects and technical writing.
-
-- 🎓 BS Statistics @ University of the Philippines Los Baños (2025–Present)
-- 🔬 Independent researcher, currently developing a closed-form approximation of the Gaussian density function (**"Zion's Conjecture"**)
-- 📽️ Making math content on YouTube via **PhiloMath**
-- 🧮 Active member of the **UPLB Statistical Society** and the **Think Tank Training Program** (UPLB Mathematical Sciences Society)
-- 🖨️ Printing Technician @ AiSEi Printing Services — LaTeX typesetting for client documents
+<p align="center">
+  <img src="./assets/about-card.svg" width="900" alt="About Me" />
+</p>
 
 ---
 
